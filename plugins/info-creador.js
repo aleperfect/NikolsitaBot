@@ -2,8 +2,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃
-│➯Wa.me/51992621601 (CREADOR)
+│𝐍𝐢𝐤𝐨𝐥𝐬𝐢𝐭𝐚 𝐛𝐨𝐭
+│➯Wa.me/+50671453710 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
